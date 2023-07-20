@@ -1,0 +1,63 @@
+body {
+    margin-left: 95px;
+    margin-top: 145px;
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: 600;
+    background: green;
+    color: #fff;
+    margin-bottom: 3px;
+    width: 855px;
+    padding: 7px;
+}
+
+.DOBcalc {
+    margin-top: 30px;
+}
+
+input {
+    width: 250px;
+    margin: 2px 0px;
+    font-size: 20px;
+    text-align: center;
+}
+
+#user-month {
+    width: 195px;
+    height: 45px;
+}
+
+#user-day {
+    width: 195px;
+    height: 45px;
+}
+
+#user-year {
+    height: 45px;
+    width: 195px;
+}
+
+#submit-date {
+    width: 605px;
+    height: 55px;
+    margin-top: 30px;
+    padding: 10px;
+    border: none;
+    border-radius: 3px;
+    font-size: 17px;
+    font-weight: 500;
+    background: #27ACD9;
+}
+
+#submit-date:hover {
+    background: purple;
+    cursor: pointer;
+}
+
+#message {
+    margin: 20px 0px;
+    font-weight: 800;
+    font-size: 40px;
+}
